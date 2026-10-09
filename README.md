@@ -80,6 +80,22 @@ Academic and personal projects focused on strengthening my programming fundament
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexdlr0\&layout=compact\&theme=tokyonight\&hide_border=true)
 
+## 🔥 GitHub Streak
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alexdlr0&theme=tokyonight&hide_border=true)](https://github.com/Alexdlr0)
+
+## 🛠️ Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,cs,java,js,html,css,mysql,git,github,vscode&theme=dark)](https://skillicons.dev)
+
+## 📈 Contribution Activity
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Alexdlr0&theme=tokyo-night&hide_border=true)
+
+## 🏆 GitHub Achievements
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Alexdlr0&theme=tokyonight&no-frame=true&row=1&column=6)
+
 ---
 
 ## 🤝 Let's Connect!
@@ -87,9 +103,7 @@ Academic and personal projects focused on strengthening my programming fundament
 I'm always interested in connecting with other developers, learning from the community, and collaborating on interesting projects.
 
 * 💼 **GitHub:** [@Alexdlr0](https://github.com/Alexdlr0)
-* 📧 **Email:** Add your preferred professional email here.
-* 💼 **LinkedIn:** Add your LinkedIn profile here.
-
+* 📧 **Email:** alexdelarosalugo@gmail.com
 ---
 
 ### 💡 "Great software starts with curiosity, continuous learning, and the willingness to build."
