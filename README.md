@@ -44,6 +44,10 @@ I enjoy learning new technologies, improving my programming skills, and turning 
 
 ---
 
+[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,cs,java,js,html,css,mysql,git,github,vscode&theme=dark)](https://skillicons.dev)
+
+---
+
 ## 📌 Featured Projects
 
 Here are some of the projects I'm working on or plan to develop as part of my journey in software engineering.
@@ -71,30 +75,6 @@ Academic and personal projects focused on strengthening my programming fundament
 **Technologies:** C, C++, C#, Java, Python, MySQL, and more.
 
 > 🚧 More projects coming soon!
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alexdlr0\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexdlr0\&layout=compact\&theme=tokyonight\&hide_border=true)
-
-## 🔥 GitHub Streak
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alexdlr0&theme=tokyonight&hide_border=true)](https://github.com/Alexdlr0)
-
-## 🛠️ Tech Stack
-
-[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,cs,java,js,html,css,mysql,git,github,vscode&theme=dark)](https://skillicons.dev)
-
-## 📈 Contribution Activity
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Alexdlr0&theme=tokyo-night&hide_border=true)
-
-## 🏆 GitHub Achievements
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Alexdlr0&theme=tokyonight&no-frame=true&row=1&column=6)
 
 ---
 
